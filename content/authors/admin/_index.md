@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: AKIA Sosthene
 role: Python Instructor
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
